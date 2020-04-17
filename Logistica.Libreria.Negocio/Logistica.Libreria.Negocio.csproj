@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F7C50288-3409-4BEE-A3E6-DE655B7DA2D5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Logistica.Libreria.Negocio</RootNamespace>
+    <AssemblyName>Logistica.Libreria.Negocio</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AuditoriaN.cs" />
+    <Compile Include="BajaActivosN.cs" />
+    <Compile Include="CategoriaN.cs" />
+    <Compile Include="CondicionN.cs" />
+    <Compile Include="DisposicionBajaActivosN.cs" />
+    <Compile Include="EstadoN.cs" />
+    <Compile Include="FacturaN.cs" />
+    <Compile Include="funcionesN.cs" />
+    <Compile Include="GuiaCabeceraN.cs" />
+    <Compile Include="GuiaDetalleActivoN.cs" />
+    <Compile Include="GuiaDetalleBienesN.cs" />
+    <Compile Include="GuiaTemporalN.cs" />
+    <Compile Include="InventarioN.cs" />
+    <Compile Include="LoginN.cs" />
+    <Compile Include="LogisticaN.cs" />
+    <Compile Include="MenuN.cs" />
+    <Compile Include="ModificarLogisticaN.cs" />
+    <Compile Include="MotivoBajaActivosN.cs" />
+    <Compile Include="MotivoTrasladoN.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportesN.cs" />
+    <Compile Include="SedeN.cs" />
+    <Compile Include="transacciones.cs" />
+    <Compile Include="UnidadMedidaN.cs" />
+    <Compile Include="UsuarioN.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Logistica.Libreria.Datos\Logistica.Libreria.Datos.csproj">
+      <Project>{68ad9562-7212-4a34-ac0d-af7c8219a6a4}</Project>
+      <Name>Logistica.Libreria.Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logistica.Libreria.Entidad\Logistica.Libreria.Entidad.csproj">
+      <Project>{cf07384d-90d2-49b4-9eb7-3e44b69b5369}</Project>
+      <Name>Logistica.Libreria.Entidad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.1.1.js" />
+    <Content Include="Scripts\jquery-3.1.1.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Scripts\jquery-3.1.1.min.map" />
+    <None Include="Scripts\jquery-3.1.1.slim.min.map" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

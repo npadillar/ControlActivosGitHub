@@ -1,0 +1,76 @@
+﻿body{
+    background: #FFF !important;
+}
+
+.headerPrincipal{
+    padding: 10px 50px;
+    border-bottom: 3px solid #097dca;
+    background: #f2f9ff;
+}
+
+.contentPrincipal {
+    font-family: Calibri; 
+    border: 2px solid #097dca;  
+    margin: 10px auto 30px auto; 
+    padding: 15px 0px; 
+    border-radius: 5px 5px;
+    width: 80%;
+}
+
+.header_fijo thead tr {
+  display: block;
+  position: relative;
+}
+
+.header_fijo tbody {
+  display: block;
+  overflow: auto;
+  height: 300px;
+}
+
+.resaltar {
+    background: #8dbef3;
+}
+
+#tbDatos {
+    margin: 0 auto;
+    font-family: Calibri;
+    font-size: 14px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#tbDatos thead {
+    background: #000;
+    color: #FFF;
+}
+
+    #tbDatos thead tr th {
+        border-right: 1px solid #CCC;
+    }
+
+    #tbDatos tbody tr td {
+        border-right: 1px solid #CCC;
+        border-bottom: 1px solid #CCC;
+    }
+
+
+.alignCenter{
+    text-align: center;
+}
+
+.cajaTexto{
+    border: 1px solid #a3a3a3;
+    border-radius: 3px 3px;
+    padding: 4px 10px;
+    width: 95%;
+    font-size: 14px;
+}
+
+.tb{
+    margin: 0 auto;
+}
+
+.tb td{
+    padding: 4px 0px;
+}

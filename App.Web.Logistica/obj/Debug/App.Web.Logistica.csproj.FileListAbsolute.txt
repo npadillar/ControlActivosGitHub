@@ -1,0 +1,44 @@
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\App.Web.Logistica.dll.config
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\App.Web.Logistica.dll
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\App.Web.Logistica.pdb
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Entidad.dll
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Negocio.dll
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Datos.dll
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Entidad.pdb
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Negocio.pdb
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Datos.pdb
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\obj\Debug\App.Web.Logistica.csprojResolveAssemblyReference.cache
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\obj\Debug\App.Web.Logistica.dll
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\obj\Debug\App.Web.Logistica.pdb
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\obj\Debug\App.Web.Logistica.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\obj\Debug\App.Web.Logistica.dll
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\obj\Debug\App.Web.Logistica.pdb
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\App.Web.Logistica.dll.config
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\App.Web.Logistica.dll
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\App.Web.Logistica.pdb
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Entidad.dll
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Negocio.dll
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\RestSharp.dll
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Datos.dll
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Entidad.pdb
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Negocio.pdb
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\RestSharp.xml
+C:\Users\User\Desktop\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Datos.pdb
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\App.Web.Logistica.dll.config
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\App.Web.Logistica.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\App.Web.Logistica.pdb
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Entidad.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Negocio.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\RestSharp.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Datos.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Entidad.pdb
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Negocio.pdb
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\RestSharp.xml
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\bin\Logistica.Libreria.Datos.pdb
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\obj\Debug\App.Web.Logistica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\obj\Debug\App.Web.Logistica.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\App.Web.Logistica\obj\Debug\App.Web.Logistica.pdb

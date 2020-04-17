@@ -1,0 +1,1227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\10.10.10.11\c$\inetpub\wwwroot\sistPrueba</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="1Login.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Acceso.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/CosapiSoft.Adryan.Common.js">
+      <publishTime>02/12/2016 10:31:50</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/editor.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_ABOUT.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_ALIGN_CENTER.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_ALIGN_JUSTIFY.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_ALIGN_LEFT.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_ALIGN_RIGHT.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_BLANK.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_CHARMAP.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_COLOR_BG.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_COLOR_FG.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_COPY.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_CUSTOM.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_CUT.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_DELETE.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_FORMAT_BOLD.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_FORMAT_ITALIC.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_FORMAT_STRIKE.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_FORMAT_SUB.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_FORMAT_SUP.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_FORMAT_UNDERLINE.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_HELP.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_HR.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_HTML.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_IMAGE.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_INDENT_LESS.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_INDENT_MORE.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_LINK.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_LIST_BULLET.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_LIST_NUM.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_PASTE.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_REDO.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/ED_UNDO.GIF">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/imagenes/insert_table.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/popups/about.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/popups/blank.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/popups/custom2.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/popups/editor_help.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/popups/fullscreen.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/popups/insert_image.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/popups/insert_table.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/editorHtml/popups/select_color.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/jquery-ui.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/jquery.fancybox.pack.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/jquery.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/jquery.tablesorter.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/Sise.Web.Logistica.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/ajax-loader.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/file.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/folder-closed.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/folder.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/minus.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/plus.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/treeview-black-line.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/treeview-black.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/treeview-default-line.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/treeview-default.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/treeview-famfamfam-line.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/treeview-famfamfam.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/treeview-gray-line.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/treeview-gray.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/treeview-red-line.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/images/treeview-red.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/jquery.treeview.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Scripts/treeview/jquery.treeview.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/General.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/asc.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/bg.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/blank.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/button.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/desc.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancybox-x.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancybox-y.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancybox.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_close.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_loading.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_nav_left.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_nav_right.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_shadow_e.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_shadow_n.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_shadow_ne.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_shadow_nw.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_shadow_s.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_shadow_se.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_shadow_sw.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_shadow_w.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_title_left.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_title_main.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_title_over.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/fancy_title_right.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/imgDate.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-bg_diagonals-thick_75_f3d8d8_40x40.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-bg_dots-small_65_a6a6a6_2x2.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-bg_flat_0_333333_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-bg_flat_65_ffffff_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-bg_glass_55_fbf8ee_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-bg_highlight-hard_100_eeeeee_1x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-bg_highlight-hard_100_f6f6f6_1x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-bg_highlight-soft_15_ea1f1b_1x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-icons_0081ab_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-icons_ea1f1b_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/imagenes/ui-icons_ffffff_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/jquery-ui.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/jquery.fancybox.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/Principal.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/01/SkinPrincipal.skin">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/General.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/asc.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/bg.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/blank.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/button.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/desc.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancybox-x.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancybox-y.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancybox.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_close.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_loading.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_nav_left.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_nav_right.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_shadow_e.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_shadow_n.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_shadow_ne.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_shadow_nw.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_shadow_s.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_shadow_se.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_shadow_sw.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_shadow_w.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_title_left.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_title_main.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_title_over.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/fancy_title_right.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/imgDate.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-bg_diagonals-thick_75_f3d8d8_40x40.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-bg_dots-small_65_a6a6a6_2x2.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-bg_flat_0_333333_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-bg_flat_65_ffffff_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-bg_glass_55_fbf8ee_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-bg_highlight-hard_100_eeeeee_1x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-bg_highlight-hard_100_f6f6f6_1x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-bg_highlight-soft_15_ea1f1b_1x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-icons_0081ab_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-icons_ea1f1b_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/imagenes/ui-icons_ffffff_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/jquery-ui.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/jquery.fancybox.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/Principal.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/02/SkinPrincipal.skin">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/General.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/app_frm.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/app_frm_add.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/app_frm_delete.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/app_frm_edit.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/app_frm_excel.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/app_frm_find.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/app_frm_go.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/asc.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/bg.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/bgCabeceraTablaDatos - copia.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/bgCabeceraTablaDatos.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/blank.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/desc.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancybox-x.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancybox-y.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancybox.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_close.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_loading.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_nav_left.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_nav_right.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_shadow_e.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_shadow_n.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_shadow_ne.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_shadow_nw.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_shadow_s.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_shadow_se.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_shadow_sw.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_shadow_w.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_title_left.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_title_main.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_title_over.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fancy_title_right.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/fondo-cabecera.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/imgDate.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/save.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-bg_flat_55_fbec88_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-bg_glass_75_d0e5f5_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-bg_glass_85_dfeffc_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-bg_gloss-wave_55_5c9ccc_500x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-bg_inset-hard_100_f5f8f9_1x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-bg_inset-hard_100_fcfdfd_1x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-icons_217bc0_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-icons_2e83ff_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-icons_469bdd_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-icons_6da8d5_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-icons_cd0a0a_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-icons_d8e7f3_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/imagenes/ui-icons_f9bd01_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/ajax-loader.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/file.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/folder-closed.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/folder.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/minus.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/plus.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/treeview-black-line.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/treeview-black.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/treeview-default-line.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/treeview-default.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/treeview-famfamfam-line.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/treeview-famfamfam.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/treeview-gray-line.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/treeview-gray.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/treeview-red-line.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/images/treeview-red.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/jquery-ui.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/jquery.fancybox.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/jquery.treeview.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/Principal.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/Default/SkinPrincipal.skin">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/app_frm.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/app_frm_add.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/app_frm_delete.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/app_frm_edit.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/app_frm_find.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/app_frm_go.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/asc.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/bg.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/bgCabeceraTablaDatos - copia.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/bgCabeceraTablaDatos.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/blank.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/desc.gif">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancybox-x.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancybox-y.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancybox.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_close.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_loading.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_nav_left.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_nav_right.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_shadow_e.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_shadow_n.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_shadow_ne.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_shadow_nw.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_shadow_s.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_shadow_se.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_shadow_sw.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_shadow_w.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_title_left.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_title_main.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_title_over.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fancy_title_right.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/fondo-cabecera.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/imgDate.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/save.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-bg_flat_55_fbec88_40x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-bg_glass_75_d0e5f5_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-bg_glass_85_dfeffc_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-bg_gloss-wave_55_5c9ccc_500x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-bg_inset-hard_100_f5f8f9_1x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-bg_inset-hard_100_fcfdfd_1x100.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-icons_217bc0_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-icons_2e83ff_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-icons_469bdd_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-icons_6da8d5_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-icons_cd0a0a_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-icons_d8e7f3_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/imagenes/ui-icons_f9bd01_256x240.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Themes/DefaultBase/SkinPrincipal.skin">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_WebControls/AccesoInternet.ascx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="auditoria.aspx">
+      <publishTime>01/29/2020 16:22:24</publishTime>
+    </File>
+    <File Include="BajaActivos.aspx">
+      <publishTime>01/28/2020 15:11:10</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>10/01/2009 05:27:54</publishTime>
+    </File>
+    <File Include="bin/App.Web.Logistica.dll">
+      <publishTime>04/15/2020 19:40:46</publishTime>
+    </File>
+    <File Include="bin/EPPlus.dll">
+      <publishTime>01/06/2019 08:49:10</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>03/16/2016 19:53:20</publishTime>
+    </File>
+    <File Include="bin/itextsharp.pdfa.dll">
+      <publishTime>03/16/2016 19:53:12</publishTime>
+    </File>
+    <File Include="bin/itextsharp.xtra.dll">
+      <publishTime>03/17/2016 00:53:16</publishTime>
+    </File>
+    <File Include="bin/Logistica.Libreria.Datos.dll">
+      <publishTime>04/09/2020 15:55:55</publishTime>
+    </File>
+    <File Include="bin/Logistica.Libreria.Entidad.dll">
+      <publishTime>04/09/2020 15:55:55</publishTime>
+    </File>
+    <File Include="bin/Logistica.Libreria.Negocio.dll">
+      <publishTime>04/15/2020 19:40:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>11/17/2016 01:40:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>11/17/2016 01:40:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>11/17/2016 01:40:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>11/17/2016 01:40:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>11/18/2016 01:42:52</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/09/2019 00:56:44</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/18/2016 01:42:50</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>01/12/2020 10:02:42</publishTime>
+    </File>
+    <File Include="bin/Tecactus.dll">
+      <publishTime>03/18/2017 19:52:44</publishTime>
+    </File>
+    <File Include="BuscarActivo.aspx">
+      <publishTime>04/01/2020 17:29:47</publishTime>
+    </File>
+    <File Include="BuscarCodigoenGuia.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="BuscarInventario.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Busquedas/BusquedaActivos.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="CambiosCodigo.aspx">
+      <publishTime>02/27/2020 15:27:56</publishTime>
+    </File>
+    <File Include="Copia de Formulario web3 - Copia.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap-grid.css">
+      <publishTime>01/27/2020 17:51:34</publishTime>
+    </File>
+    <File Include="css/bootstrap-grid.css.map">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="css/bootstrap-grid.min.css">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="css/bootstrap-grid.min.css.map">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="css/bootstrap-reboot.css">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="css/bootstrap-reboot.css.map">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="css/bootstrap-reboot.min.css">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="css/bootstrap-reboot.min.css.map">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>01/27/2020 17:51:44</publishTime>
+    </File>
+    <File Include="css/bootstrap.css.map">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css.map">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="default.htm">
+      <publishTime>04/09/2020 16:01:46</publishTime>
+    </File>
+    <File Include="Demo.aspx">
+      <publishTime>09/02/2017 16:25:38</publishTime>
+    </File>
+    <File Include="detalleActivo.aspx">
+      <publishTime>01/28/2020 12:31:58</publishTime>
+    </File>
+    <File Include="detalleGuiaActivo.aspx">
+      <publishTime>01/28/2020 14:31:58</publishTime>
+    </File>
+    <File Include="Formularioweb3.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/18/2016 00:26:06</publishTime>
+    </File>
+    <File Include="Guia.aspx">
+      <publishTime>04/03/2020 15:06:20</publishTime>
+    </File>
+    <File Include="GuiaBienes.aspx">
+      <publishTime>01/27/2020 12:16:16</publishTime>
+    </File>
+    <File Include="GuiaDetalle.aspx">
+      <publishTime>04/08/2020 12:42:10</publishTime>
+    </File>
+    <File Include="Iconos/34627.png">
+      <publishTime>11/18/2016 00:14:42</publishTime>
+    </File>
+    <File Include="Iconos/bg.png">
+      <publishTime>01/24/2020 12:33:52</publishTime>
+    </File>
+    <File Include="Iconos/check.png">
+      <publishTime>04/17/2017 12:35:56</publishTime>
+    </File>
+    <File Include="Iconos/codigobarras.jpg">
+      <publishTime>06/08/2017 16:18:26</publishTime>
+    </File>
+    <File Include="Iconos/email.ico">
+      <publishTime>04/27/2017 16:38:00</publishTime>
+    </File>
+    <File Include="Iconos/email.jpg">
+      <publishTime>04/27/2017 16:31:20</publishTime>
+    </File>
+    <File Include="Iconos/favicon.ico">
+      <publishTime>11/18/2016 00:37:48</publishTime>
+    </File>
+    <File Include="Iconos/find.png">
+      <publishTime>11/19/2016 00:38:08</publishTime>
+    </File>
+    <File Include="Iconos/icon_check.png">
+      <publishTime>10/02/2019 17:07:26</publishTime>
+    </File>
+    <File Include="Iconos/imgDate.png">
+      <publishTime>11/21/2016 16:29:54</publishTime>
+    </File>
+    <File Include="Iconos/Imprimir.png">
+      <publishTime>03/14/2018 15:20:58</publishTime>
+    </File>
+    <File Include="Iconos/inicio.jpg">
+      <publishTime>11/16/2016 11:06:14</publishTime>
+    </File>
+    <File Include="Iconos/inventario.jpg">
+      <publishTime>11/16/2016 10:56:20</publishTime>
+    </File>
+    <File Include="Iconos/inventario2.jpg">
+      <publishTime>06/08/2017 16:21:34</publishTime>
+    </File>
+    <File Include="Iconos/lector2.png">
+      <publishTime>06/09/2017 11:43:42</publishTime>
+    </File>
+    <File Include="Iconos/lector3.jpg">
+      <publishTime>06/09/2017 11:41:38</publishTime>
+    </File>
+    <File Include="Iconos/logistica.png">
+      <publishTime>06/09/2017 12:24:42</publishTime>
+    </File>
+    <File Include="Iconos/logistica1.png">
+      <publishTime>06/09/2017 12:28:24</publishTime>
+    </File>
+    <File Include="Iconos/logo.jpg">
+      <publishTime>06/08/2017 14:32:56</publishTime>
+    </File>
+    <File Include="Iconos/logo.png">
+      <publishTime>11/18/2016 21:40:00</publishTime>
+    </File>
+    <File Include="Iconos/logo_black.png">
+      <publishTime>06/26/2018 14:08:00</publishTime>
+    </File>
+    <File Include="Iconos/nuevo.jpg">
+      <publishTime>11/18/2016 12:50:48</publishTime>
+    </File>
+    <File Include="Iconos/Pagina_Mantenimiento.png">
+      <publishTime>11/18/2016 00:14:42</publishTime>
+    </File>
+    <File Include="Iconos/Save as.gif">
+      <publishTime>11/18/2016 12:50:50</publishTime>
+    </File>
+    <File Include="Iconos/Search.gif">
+      <publishTime>11/18/2016 12:50:48</publishTime>
+    </File>
+    <File Include="Iconos/sise.ico">
+      <publishTime>10/24/2018 10:05:08</publishTime>
+    </File>
+    <File Include="Iconos/tachito.png">
+      <publishTime>07/16/2014 15:54:38</publishTime>
+    </File>
+    <File Include="Iconos/x.png">
+      <publishTime>08/09/2013 09:02:06</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>11/01/2019 17:11:08</publishTime>
+    </File>
+    <File Include="Inicio/Inicio.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="js/bootstrap.bundle.js">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="js/bootstrap.bundle.js.map">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="js/bootstrap.bundle.min.js">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="js/bootstrap.bundle.min.js.map">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="js/bootstrap.js.map">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js.map">
+      <publishTime>01/18/2018 10:29:48</publishTime>
+    </File>
+    <File Include="ListarInventario.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="ListarLogistica.aspx">
+      <publishTime>01/27/2020 10:21:00</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>04/09/2020 16:02:47</publishTime>
+    </File>
+    <File Include="loginNew.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="LogisticaLst.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="logo.jpg">
+      <publishTime>01/03/2017 11:48:40</publishTime>
+    </File>
+    <File Include="MasterModal.Master">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="MasterPage2.Master">
+      <publishTime>01/28/2020 10:45:16</publishTime>
+    </File>
+    <File Include="MasterPrincipal.Master">
+      <publishTime>01/29/2020 16:22:50</publishTime>
+    </File>
+    <File Include="Menu.aspx">
+      <publishTime>01/28/2020 10:30:48</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/03/2020 12:45:03</publishTime>
+    </File>
+    <File Include="Principal.Master">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="redireccionar.aspx">
+      <publishTime>02/01/2019 11:33:26</publishTime>
+    </File>
+    <File Include="Reparaciones.aspx">
+      <publishTime>04/15/2020 19:38:04</publishTime>
+    </File>
+    <File Include="ReporteBajaActivos2.aspx">
+      <publishTime>01/29/2020 16:22:50</publishTime>
+    </File>
+    <File Include="Reportes/DetalleBajaActivos.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Reportes/DetalleGuia.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Reportes/DetalleGuiaPorActivo.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Reportes/DetalleModLog.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Reportes/logo.jpg">
+      <publishTime>08/06/2017 14:50:32</publishTime>
+    </File>
+    <File Include="Reportes/ReporteBajaActivos.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Reportes/ReporteBajaActivos2.aspx">
+      <publishTime>11/11/2019 15:44:27</publishTime>
+    </File>
+    <File Include="Reportes/RptGuia.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Reportes/RptGuia2.aspx">
+      <publishTime>10/10/2019 16:14:10</publishTime>
+    </File>
+    <File Include="Reportes/RptInventario.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Reportes/RptInventario2.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="RptCambiosCodigo.aspx">
+      <publishTime>02/27/2020 14:41:34</publishTime>
+    </File>
+    <File Include="RptGuia2.aspx">
+      <publishTime>04/03/2020 23:36:30</publishTime>
+    </File>
+    <File Include="RptInventario2.aspx">
+      <publishTime>02/27/2020 14:31:34</publishTime>
+    </File>
+    <File Include="Salir.aspx">
+      <publishTime>11/21/2016 09:09:20</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.css">
+      <publishTime>02/09/2017 16:18:54</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>02/09/2017 16:18:54</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.css">
+      <publishTime>02/09/2017 16:18:54</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>02/09/2017 16:18:54</publishTime>
+    </File>
+    <File Include="Scripts/estilos.css">
+      <publishTime>01/28/2020 10:47:58</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.intellisense.js">
+      <publishTime>02/09/2017 16:18:56</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.js">
+      <publishTime>02/09/2017 16:18:56</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.min.js">
+      <publishTime>02/09/2017 16:18:56</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.slim.js">
+      <publishTime>02/09/2017 16:18:56</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.slim.min.js">
+      <publishTime>02/09/2017 16:18:56</publishTime>
+    </File>
+    <File Include="Scripts/jquery.thead-1.1.min.js">
+      <publishTime>09/26/2010 19:36:38</publishTime>
+    </File>
+    <File Include="Scripts/npm.js">
+      <publishTime>02/09/2017 16:18:56</publishTime>
+    </File>
+    <File Include="seleccionarcargo.aspx">
+      <publishTime>01/22/2019 15:11:48</publishTime>
+    </File>
+    <File Include="updateMasivo.aspx">
+      <publishTime>01/27/2020 11:31:34</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/09/2020 15:55:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

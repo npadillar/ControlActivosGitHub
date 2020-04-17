@@ -1,0 +1,82 @@
+C:\Users\yayra\Desktop\Logistica\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\yayra\Desktop\Logistica\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\yayra\Desktop\Logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+C:\Users\yayra\Desktop\Logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\yayra\Desktop\Logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\logistica\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+C:\logistica\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+C:\logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+C:\logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+D:\Yeimi\logistica\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+D:\Yeimi\logistica\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+D:\Yeimi\logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+D:\Yeimi\logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+D:\Proyectos\SISE\logistica\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+D:\Proyectos\SISE\logistica\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+D:\Proyectos\SISE\logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+D:\Proyectos\SISE\logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+D:\Proyectos\SISE\logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\PcProgramador1\Desktop\Sis.Logistica (1)\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\PcProgramador1\Desktop\Sis.Logistica (1)\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\PcProgramador1\Desktop\Sis.Logistica (1)\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+C:\Users\PcProgramador1\Desktop\Sis.Logistica (1)\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\PcProgramador1\Desktop\Sis.Logistica (1)\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\Sis.Logistica\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+C:\Sis.Logistica\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+C:\Sis.Logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+C:\Sis.Logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\Sis.Logistica\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+D:\Carpeta Compartida\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+D:\Carpeta Compartida\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+D:\Carpeta Compartida\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+D:\Carpeta Compartida\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+D:\Carpeta Compartida\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+C:\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+C:\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+C:\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+C:\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+D:\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+D:\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+D:\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+D:\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\npadilla.siseLocal\Desktop\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\npadilla.siseLocal\Desktop\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\npadilla.siseLocal\Desktop\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+C:\Users\npadilla.siseLocal\Desktop\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\npadilla.siseLocal\Desktop\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+C:\Users\jriveros\Desktop\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\jriveros\Desktop\Sis.Logistica\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\jriveros\Desktop\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+C:\Users\jriveros\Desktop\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\jriveros\Desktop\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\User\Desktop\Sis.Logistica new menu\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\User\Desktop\Sis.Logistica new menu\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\User\Desktop\Sis.Logistica new menu\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Sis.Logistica new menu\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\User\Desktop\Sis.Logistica new menu\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Entidad\bin\Debug\Logistica.Libreria.Entidad.pdb
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Entidad\obj\Debug\Logistica.Libreria.Entidad.pdb

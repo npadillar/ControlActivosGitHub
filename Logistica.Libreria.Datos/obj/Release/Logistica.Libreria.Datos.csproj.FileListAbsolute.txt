@@ -1,0 +1,49 @@
+C:\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.dll
+C:\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.pdb
+C:\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.dll
+C:\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.pdb
+C:\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.csprojResolveAssemblyReference.cache
+C:\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.dll
+C:\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.pdb
+D:\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.dll
+D:\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.pdb
+D:\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.dll
+D:\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.pdb
+D:\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.csprojResolveAssemblyReference.cache
+D:\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.dll
+D:\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.pdb
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.dll
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.pdb
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.dll
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.pdb
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.csprojResolveAssemblyReference.cache
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.dll
+D:\01 JRiveros\01 SistemasSise\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.pdb
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.dll
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.pdb
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.dll
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.pdb
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.csprojResolveAssemblyReference.cache
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.dll
+C:\Users\npadilla.siseLocal\Desktop\New\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.pdb
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.dll
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.pdb
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.dll
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.pdb
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.csprojResolveAssemblyReference.cache
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.dll
+C:\Users\npadilla.siseLocal\Desktop\New\Ya\Sis.Logistica\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.pdb
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.dll
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.pdb
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.dll
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.pdb
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.csprojResolveAssemblyReference.cache
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.dll
+D:\01 JRiveros\01 SistemasSise\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.pdb
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Datos.pdb
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\bin\Release\Logistica.Libreria.Entidad.pdb
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.dll
+C:\Users\Administrador\Desktop\Natalia\Sistema control activos\Sis.Logistica new menu\Logistica.Libreria.Datos\obj\Release\Logistica.Libreria.Datos.pdb

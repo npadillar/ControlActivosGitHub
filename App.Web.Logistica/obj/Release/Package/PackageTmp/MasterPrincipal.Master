@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPrincipal.master.cs" Inherits="App.Web.Logistica.MasterPrincipal" %>
+
+<%@ Import Namespace="Logistica.Libreria.Negocio" %>
+<%@ Import Namespace="Logistica.Libreria.Entidad" %>
+<%@ Import Namespace="System.Collections.Generic" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <title>
+        <asp:ContentPlaceHolder ID="cphTitle" runat="server"></asp:ContentPlaceHolder>
+    </title>
+    <link rel='shortcut icon' type='image/x-icon' href="Iconos/sise.ico" />
+    <link rel="Stylesheet" href="Scripts/estilos.css" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="cphHead" runat="server"></asp:ContentPlaceHolder>
+
+</head>
+<body onload="window.defaultStatus = 'Sistema Web'; return true;">
+    <form id="FrmPrincipal" runat="server">
+        <div class="headerPrincipal">
+            <table style="width: 100%;">
+                <tr>
+                    <td style="width: 150px;">
+                        <asp:Image ID="imgTitulo" ImageUrl="~/Iconos/logo_black.png" runat="server" />
+                    </td>
+                    <td>
+                        <b>SISTEMA DE CONTROL ACTIVOS</b>
+                    </td>
+                    <td style="width: 200px; text-align: right;">
+                        <b>Usuario:
+                        <asp:Label ID="lblUsuario" runat="server" Style="text-align: center" Text="" /></b>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <br />
+
+        <div style="width: 80%; margin: 0 auto;">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light" style="border: 2px solid #097dca; border-radius: 5px 5px; background: #fafafa !important;">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto" style="margin: 0 auto;">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="https://sistemas.sise.com.pe/sistemas/index.aspx">Menú principal&nbsp;&nbsp;&nbsp;&nbsp;|</a>
+                        </li>
+                        <%
+                            MenuN objMenu = new MenuN();
+
+                            List<MenuEst.EST_MODULO> estMod = new List<MenuEst.EST_MODULO>();
+                            List<MenuEst.EST_PAGINA> estPag = new List<MenuEst.EST_PAGINA>();
+                            estMod = objMenu.fun_listarModulos_xSistema_xCargo(Convert.ToInt16(Session["cargo"]));
+
+                            foreach (var m in estMod)
+                            { %>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><%=m.descrip %></a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <%
+                                    estPag = objMenu.fun_listarPaginas_xModulo_xCargo(m.idMod, Convert.ToInt16(Session["cargo"]));
+
+                                    foreach (var p in estPag)
+                                    {
+                                %>
+                                <a class="dropdown-item" href="<%=p.link %>"><%=p.descrip %></a>
+                                <div class="dropdown-divider"></div>
+                                <% }  %>
+                            </div>
+                        </li>
+                        <%  } %>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="salir.aspx">|&nbsp;&nbsp;&nbsp;&nbsp;Cerrar sesión</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+
+        <%--<div style="background: #fafafa;">--%>
+        <div class="contentPrincipal">
+            <asp:ContentPlaceHolder ID="cphBody" runat="server"></asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
