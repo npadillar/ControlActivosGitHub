@@ -148,7 +148,7 @@
 
 
         <div class="contentPrincipal">
-            <h5 class="alignCenter"><b>REPORTE DE AUDITORÍA</b></h5>
+            <h5 class="alignCenter"><b>REPORTE DE AUDITORÍA - HELLOOOOOO</b></h5>
 
             <table style="width: 950px;" class="tb">
                             <tr>
