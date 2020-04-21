@@ -862,7 +862,9 @@ namespace App.Web.Logistica
 
                     if (emp.estado_contribuyente != "ACTIVO")
                     {
-                        throw new Exception("El estado del contribuyente es inactivo ante la SUNAT");
+                        txtRuc.Focus();
+                        txtRuc.BackColor = System.Drawing.Color.Yellow;
+                        throw new Exception("Por favor, ingrese número de RUC válido");
                     }
 
                     Transportista.Text = emp.razon_social;
@@ -882,7 +884,9 @@ namespace App.Web.Logistica
                     objFac.pr_registrar_empresa_api(empresa);
                     //objFac.pr_registrar_consulta_api(sede, Session["usuario"].ToString(), "ListarLogistica.aspx", ruc, Session["ip"].ToString());
                 }
-                txtRuc.Enabled = false;
+                txtRuc.Enabled = true;
+                txtRuc.BackColor = System.Drawing.Color.White;
+                btnRuc.Enabled = true;
                 btnRuc.Enabled = true;
                 dvError.Visible = false;
             }
